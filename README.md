@@ -1,10 +1,10 @@
-# YeoPress Default Theme
+# PRMN Wordpress Theme
 
-This base theme is packed full of goodies to get your WordPress development process off the ground.  Not only does it come with a decent amount of WP Theme files, it also gets you setup with a `Gruntfile` with some goodies like LiveReload, Sass compilation and RequireJS support.
+This theme is fully based on __YeoPress Default Theme__.
 
-Once you have run the setup process with YeoPress, you are ready to start working with your theme.  So change directory into the theme directory and run grunt:
+"Not only does it come with a decent amount of WP Theme files, it also gets you setup with a `Gruntfile` with some goodies like LiveReload, Sass compilation and RequireJS support."
 
-	$ cd wp-content/themes/your-theme-name-chosen-at-setup
+	$ cd wp-content/themes/prmn-theme
 	$ grunt
 
 This will fire up the watch task which will listen for changes in your files and trigger the appropriate update tasks and will reload the browser via LiveReload.
